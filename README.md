@@ -9,8 +9,8 @@ Non è necessario provvedere alla validazione delle email
 ### passaggi:
 #### dichiarazione delle variabili e input:
 - creare array con x numero di mail;
-- dare l'input in un prompt e far inserire la mail all'utente e inserirlo in una vaariabile;
-- creare variabile isEmailPresent = folse;
+- dare l'input in un prompt e far inserire la mail all'utente e inserirlo in una variabile;
+- creare variabile isEmailPresent = false;
 #### ciclo di verifica :
 - FOR (i = 0; i < array.lenght; i++) cicliamo per il numero di mail nell'array
     - SE (mail inserita dall'utente === array[i]) verifichiamo ogni volta se la email coincide
